@@ -1,5 +1,5 @@
 # Daytrade-Cereals
-Daytrade Cereals is an algorithm engine for serialized smart contract environments for day traders using Daytrade Script. 
+Daytrade Cereals is an algorithm engine for serialized smart contract environments for Daytrade Script. 
 
 Introduction:
 Signing In to Daytrade Exchange.
