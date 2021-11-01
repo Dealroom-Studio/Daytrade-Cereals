@@ -9,3 +9,4 @@ Signing In to Daytrade Exchange.
 Tarballs, NuGET and NPM Cereal Boxes
 Addresses and Scaling Serials
 Publishing Daytrade Scripts with Daytrade Cereal
+Lumeint Proofing (measure of lume_int (lumeint) optimizied content in a cereal script).
