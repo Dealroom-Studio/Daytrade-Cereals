@@ -1,5 +1,5 @@
 # Daytrade-Cereals
-Daytrade Cereals is an algorithm engine for serialized smart contract electroplating, lume_int wallet chipset with automation and hosting ED-C2 environments. 
+Daytrade Cereals is an algorithm engine for serialized smart contract electroplating, compatible with lume_int wallet chipset, entails automated preparation rendering and dossier hosting for ED-C2 environments. 
 
 What is Daytrade Cereals? Daytrade Cereals is a CLI for serializing Daytrade Script. Scale parameters and package new cereal boxes. Use Daytrade Cereal's 
 virtual chipset to make custom scripts, templates and electroplate extensions to install in your client rack. Automate single and serial smart contracts.
